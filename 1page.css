@@ -1,0 +1,49 @@
+.name,.name22,.name23,.name234{
+background-image: url('./santa.png');
+background-position: center;
+background-repeat: no-repeat;
+height: 600px;
+width: 400px;
+opacity: 0.7;
+/* position: relative; */
+background-attachment: fixed;
+}
+.name22{
+    background-image: url('./trees.jpg');
+    width: 100%;
+    opacity: 1.0;
+    background-color: aquamarine;
+}
+.name23{
+    background-image: url('./google.jpg');
+    width:100%;
+}
+.name234{
+    opacity: 1.0;
+}
+.span1,#section1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow:2px 2px 8px aqua;
+    font-size: 300%;
+    opacity:1.0;
+
+}
+/* h1,h3{
+    font-size: larger;
+} */
+#div3para{
+    font-style: italic;
+    font-family: 'Lucida Sans';
+    font-size: large;
+    text-align: center;
+}
+#d3{
+    padding-top:60px;
+    text-align-last: center;
+    text-justify: kashida;
+    text-align: end;
+}
+#bottom{
+    font-size: 40px;
+}
