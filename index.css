@@ -1,41 +1,36 @@
 .name,.name22,.name23,.name234{
-background-image: url('./santa.png');
+background-image: url('./trees.jpg');
 background-position: center;
 background-repeat: no-repeat;
 height: 600px;
-width: 400px;
-opacity: 0.7;
-/* position: relative; */
+width: 100%;
 background-attachment: fixed;
 }
 .name22{
-    background-image: url('./trees.jpg');
+    background-image: url('./5.jpg');
     width: 100%;
-    opacity: 1.0;
-    background-color: aquamarine;
 }
 .name23{
-    background-image: url('./google.jpg');
+    background-image: url('./3.jpg');
     width:100%;
+    height: 600px;
+    opacity: 1.0;
 }
 .name234{
-    opacity: 1.0;
+    margin-top: 2em;
 }
 .span1,#section1{
     text-align: center;
     text-decoration: underline;
     text-shadow:2px 2px 8px aqua;
     font-size: 300%;
-    opacity:1.0;
-
-}
-/* h1,h3{
-    font-size: larger;
-} */
+} 
 #div3para{
     font-style: italic;
     font-family: 'Lucida Sans';
-    font-size: large;
+    color: black;
+    background-color: white;
+    font-size: x-large;
     text-align: center;
 }
 #d3{
@@ -45,5 +40,9 @@ background-attachment: fixed;
     text-align: end;
 }
 #bottom{
-    font-size: 40px;
+    font-size: 20px;
+    text-shadow: 2px 2px pink;
+    text-align: right;
+    margin-right:2em ;
+    margin-right:2em ;
 }
